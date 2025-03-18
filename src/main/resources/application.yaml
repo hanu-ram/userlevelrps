@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: userlevelrps
+user:
+  ratelimit:
+    ms: 3000
